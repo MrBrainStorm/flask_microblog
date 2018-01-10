@@ -1,0 +1,8 @@
+Кароче я полюбому забуду всё через 2 часа
+Начал писать я уже гораздо позже но
+
+Для того что бы внести изменения в схему (venv) C:\Users\ruslan\OneDrive\coding\web\flask\microblog>flask db migrate -m "users table"
+(-m это просто коментарий можно и без него)
+
+Потом нужно заапгрэдить базу
+(venv) C:\Users\ruslan\OneDrive\coding\web\flask\microblog>flask db upgrade
